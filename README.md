@@ -1,1 +1,1 @@
-This prpject is made for the SGP - II
+This project is made for the SGP - II
