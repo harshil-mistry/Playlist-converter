@@ -1,2 +1,1 @@
-# SGP-II
-SGP-II
+This prpject is made for the SGP - II
